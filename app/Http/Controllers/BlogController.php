@@ -15,4 +15,8 @@ class BlogController extends Controller
         // tampilkan view dalam folder blog dan buat file index
         return view('blog.tentang');
      }
+
+     function kontak(){
+        
+      }
 }
