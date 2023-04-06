@@ -20,10 +20,10 @@
                 <a class="nav-link active" aria-current="page" href="/blog/index">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Tentang</a>
+                <a class="nav-link" href="/blog/tentang">Tentang</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Kontak</a>
+                <a class="nav-link" href="/blog/kontak">Kontak</a>
               </li>
             </ul>
             <form class="d-flex" role="search">

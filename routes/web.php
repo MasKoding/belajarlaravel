@@ -39,3 +39,4 @@ Route::get('/siswa/{nama?}',function ($nama=null){
  
  Route::get('blog/index',[BlogController::class,'index']);
  Route::get('blog/tentang',[BlogController::class,'tentang']);
+ Route::get('blog/kontak',[BlogController::class,'kontak']);
